@@ -1,0 +1,4 @@
+Ignorowanie sygnału, handler oraz maska są przekazywane do procesu potomnego
+Sygnał oczekujący nie jest przekazywany do procesu potomnego
+
+Ignorowanie sygnału, maska oraz sygnały oczekujące są przekazane do programu wywołanego przez funkcję exec

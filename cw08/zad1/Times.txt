@@ -1,0 +1,198 @@
+brain_398.ascii.pgm
+
+block
+
+number of threads: 1 
+thread 0 time: 0.004906 s
+full program time: 0.005096 s
+
+number of threads: 2 
+thread 1 time: 0.001192 s
+thread 0 time: 0.006434 s
+full program time: 0.016090 s
+
+number of threads: 4 
+thread 2 time: 0.000676 s
+thread 1 time: 0.000634 s
+thread 0 time: 0.000630 s
+thread 3 time: 0.000643 s
+full program time: 0.002970 s
+
+number of threads: 8 
+thread 3 time: 0.000305 s
+thread 2 time: 0.003342 s
+thread 1 time: 0.000324 s
+thread 4 time: 0.000302 s
+thread 5 time: 0.000291 s
+thread 6 time: 0.000292 s
+thread 0 time: 0.002738 s
+thread 7 time: 0.004545 s
+full program time: 0.011366 s
+
+number of threads: 16 
+thread 13 time: 0.000240 s
+thread 14 time: 0.000216 s
+thread 15 time: 0.000225 s
+thread 12 time: 0.000168 s
+thread 11 time: 0.000156 s
+thread 3 time: 0.000174 s
+thread 2 time: 0.000167 s
+thread 1 time: 0.000186 s
+thread 0 time: 0.000155 s
+thread 6 time: 0.000186 s
+thread 8 time: 0.000161 s
+thread 10 time: 0.000175 s
+thread 7 time: 0.000152 s
+thread 9 time: 0.000150 s
+thread 4 time: 0.000158 s
+thread 5 time: 0.000149 s
+full program time: 0.005235 s
+
+numbers
+
+number of threads: 1 
+thread 0 time: 0.003029 s
+full program time: 0.014164 s
+
+number of threads: 2 
+thread 1 time: 0.002381 s
+thread 0 time: 0.001175 s
+full program time: 0.003799 s
+
+number of threads: 4 
+thread 3 time: 0.000594 s
+thread 2 time: 0.000616 s
+thread 1 time: 0.000625 s
+thread 0 time: 0.000610 s
+full program time: 0.002889 s
+
+number of threads: 8 
+thread 6 time: 0.000316 s
+thread 7 time: 0.000336 s
+thread 5 time: 0.000334 s
+thread 4 time: 0.000411 s
+thread 3 time: 0.000742 s
+thread 2 time: 0.000297 s
+thread 1 time: 0.000295 s
+thread 0 time: 0.000296 s
+full program time: 0.003786 s
+
+number of threads: 16 
+thread 11 time: 0.000147 s
+thread 12 time: 0.000150 s
+thread 13 time: 0.000147 s
+thread 10 time: 0.000730 s
+thread 9 time: 0.000148 s
+thread 8 time: 0.000147 s
+thread 7 time: 0.000148 s
+thread 6 time: 0.000149 s
+thread 1 time: 0.000150 s
+thread 0 time: 0.000148 s
+thread 2 time: 0.000148 s
+thread 3 time: 0.000148 s
+thread 4 time: 0.000148 s
+thread 14 time: 0.000147 s
+thread 5 time: 0.000149 s
+thread 15 time: 0.000148 s
+full program time: 0.003509 s
+
+
+
+
+apollonian_gasket.ascii.pgm
+
+block
+
+number of threads: 1 
+thread 0 time: 0.002452 s
+full program time: 0.002643 s
+
+number of threads: 2 
+thread 0 time: 0.001312 s
+thread 1 time: 0.001293 s
+full program time: 0.001501 s
+
+number of threads: 4 
+thread 1 time: 0.000637 s
+thread 3 time: 0.005447 s
+thread 2 time: 0.000818 s
+thread 0 time: 0.001022 s
+full program time: 0.017851 s
+
+number of threads: 8 
+thread 6 time: 0.000356 s
+thread 5 time: 0.000580 s
+thread 4 time: 0.000344 s
+thread 7 time: 0.001486 s
+thread 3 time: 0.000815 s
+thread 1 time: 0.000487 s
+thread 2 time: 0.000512 s
+thread 0 time: 0.000398 s
+full program time: 0.003493 s
+
+number of threads: 16 
+thread 10 time: 0.000165 s
+thread 9 time: 0.000157 s
+thread 8 time: 0.000156 s
+thread 7 time: 0.000155 s
+thread 3 time: 0.000160 s
+thread 2 time: 0.000154 s
+thread 4 time: 0.000152 s
+thread 5 time: 0.000149 s
+thread 6 time: 0.000150 s
+thread 11 time: 0.000162 s
+thread 12 time: 0.000238 s
+thread 13 time: 0.000149 s
+thread 14 time: 0.000183 s
+thread 15 time: 0.000188 s
+thread 1 time: 0.000921 s
+thread 0 time: 0.002101 s
+full program time: 0.004419 s
+
+numbers
+
+number of threads: 1 
+thread 0 time: 0.011624 s
+full program time: 0.011818 s
+
+number of threads: 2 
+thread 0 time: 0.001217 s
+thread 1 time: 0.003811 s
+full program time: 0.009750 s
+
+number of threads: 4 
+thread 0 time: 0.002165 s
+thread 3 time: 0.000608 s
+thread 1 time: 0.004388 s
+thread 2 time: 0.004038 s
+full program time: 0.020360 s
+
+number of threads: 8 
+thread 0 time: 0.000460 s
+thread 7 time: 0.000316 s
+thread 6 time: 0.000303 s
+thread 3 time: 0.000303 s
+thread 5 time: 0.000302 s
+thread 4 time: 0.000305 s
+thread 1 time: 0.000303 s
+thread 2 time: 0.000339 s
+full program time: 0.001724 s
+
+number of threads: 16 
+thread 0 time: 0.000153 s
+thread 10 time: 0.000153 s
+thread 11 time: 0.000152 s
+thread 14 time: 0.000151 s
+thread 12 time: 0.000151 s
+thread 15 time: 0.000152 s
+thread 13 time: 0.000151 s
+thread 9 time: 0.000151 s
+thread 8 time: 0.000154 s
+thread 7 time: 0.000154 s
+thread 6 time: 0.000152 s
+thread 2 time: 0.000154 s
+thread 1 time: 0.000153 s
+thread 4 time: 0.000153 s
+thread 5 time: 0.000156 s
+thread 3 time: 0.002967 s
+full program time: 0.004198 s

@@ -1,0 +1,20 @@
+dla dużej liczby kucharzy piec szybko się zapełnia i kucharze muszą długo na niego czekać
+powoduje to obciążenie kuchni, ale zapewnia szybszą produkcję
+
+dla dużej liczby dostawców stół jest bardziej obciążony(więcej dostawców przy nim czeka)
+mogą być niepotrzebni
+(ta wiedza przydaje się jeśli przeprowadzamy symulację prawdziwej pracy w celach optymalizacji firmy)
+pozwala to na nieblokowanie stołu i częste opróżnianie go co pozwala częściej wyjmować pizze z pieca
+a co za tym idzie częściej wkładać nowe
+
+
+
+dla małej liczby kucharzy kucharz często nie musi czekać na piec bo kolejka jest krutka
+
+dla małej liczby dostawców stuł może się szybko zapełnić co zablokuje pracę w restauracji
+za to dostawcy nie muszą długo czekać na gotowe pizze tylko od razu brać i jechać z dostawą
+
+
+
+W obu wariantach użycie semaforów pozwoliło na wyłączność dostępu do pamięci i uniknięcie błędów
+Blokowanie danych na wyłączność okazało się być kluczową cechą do poprawnego wykonania ćwiczenia

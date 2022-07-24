@@ -1,0 +1,13 @@
+metoda numbers obsługuje odpowiednie fragmenty tabeli
+fragmenty te są obliczane w czasie stałym
+dla książkowej kolejności czytania znaków (od lewej do prawej, góry do dołu)
+powstaje ciąg który matematycznie podzielony jest między wątki po równo
+w przypadku gdy iloczyn wierszy i kolumn jest niepodzielny przez liczbę wątków,
+program przydziela jeden dodatkowy element tablicy dokładnie k wątkom
+(gdzie k to reszta z dzielenia W*H/n)
+dzięki temuróżnica między liczbą obsługiwanych pikseli dla każdej pary wątków wynosi co najwyżej jeden.
+
+Wątki działają w czasie znacznie krótszym niż program. program działa dłużej,
+ze względu na to, że musi zainicjalizować je najpierw w pętli
+
+

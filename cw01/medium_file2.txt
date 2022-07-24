@@ -1,0 +1,414 @@
+[200~Hedonism
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Hedonism (disambiguation).
+Part of a series on
+Hedonism
+Thinkers
+Schools of hedonism
+Key concepts
+Related articles
+vte
+Hedonism refers to a family of theories, all of which have in common that pleasure plays a central role in them. Psychological or motivational hedonism claims that human behavior is determined by desires to increase pleasure and to decrease pain.[1][2] Normative or ethical hedonism, on the other hand, is not about how we actually act but how we ought to act: we should pursue pleasure and avoid pain.[2] Axiological hedonism, which is sometimes treated as a part of ethical hedonism, is the thesis that only pleasure has intrinsic value.[1][3][4] Applied to well-being or what is good for someone, it is the thesis that pleasure and suffering are the only components of well-being.[5] These technical definitions of hedonism within philosophy, which are usually seen as respectable schools of thought, have to be distinguished from how the term is used in everyday language, sometimes referred to as "folk hedonism". In this sense, it has a negative connotation, linked to the egoistic pursuit of short-term gratification by indulging in sensory pleasures without regard for the consequences.[2][6]
+
+
+Contents
+1	The nature of pleasure
+2	Psychological hedonism
+3	Ethical hedonism
+4	Axiological hedonism
+5	Aesthetic hedonism
+6	History
+6.1	Etymology
+6.2	Early philosophy
+6.2.1	Sumerian civilization
+6.2.2	Ancient Egypt
+6.3	Ancient Greek philosophy
+6.3.1	Cyrenaic school
+6.3.2	Epicureanism
+6.4	Asian philosophy
+6.4.1	Yangism
+6.4.2	Indian philosophy
+6.5	Abrahamic philosophy
+6.5.1	Judaism
+6.5.2	Christianity
+6.5.3	Islam
+6.6	Utilitarianism
+6.6.1	Bentham
+6.6.2	Mill
+6.7	Libertinage
+7	Contemporary approaches
+7.1	Michel Onfray
+7.2	Abolitionism (David Pearce)
+7.3	Hedodynamics (Victor Argonov)
+8	Criticism
+9	See also
+10	References
+10.1	Citations
+10.2	Sources
+11	Further reading
+12	External links
+The nature of pleasure
+Main article: Pleasure
+Pleasure plays a central role in all forms of hedonism; it refers to experience that feels good and involves the enjoyment of something.[7][8] Pleasure contrasts with pain or suffering, which are forms of feeling bad.[9] Discussions within hedonism usually focus more on pleasure, but as its negative side, pain is equally implied in these discussions. Both pleasure and pain come in degrees and have been thought of as a dimension going from positive degrees through a neutral point to negative degrees. The term "happiness" is often used in this tradition to refer to the balance of pleasure over pain.[2]
+
+In everyday language, the term "pleasure" is primarily associated with sensory pleasures like the enjoyment of food or sex.[10] But in its most general sense, it includes all types of positive or pleasant experiences including the enjoyment of sports, seeing a beautiful sunset or engaging in an intellectually satisfying activity. Theories of pleasure try to determine what all these pleasurable experiences have in common, what is essential to them.[7] They are traditionally divided into quality theories and attitude theories.[11] Quality theories hold that pleasure is a quality of pleasurable experiences themselves while attitude theories state that pleasure is in some sense external to the experience since it depends on the subject's attitude to the experience.[7][11]
+
+The plausibility of the various versions of hedonism is affected by how the nature of pleasure is conceived.[2] An important appeal of most forms of hedonism is that they are able to give a simple and unified account of their respective fields. But this is only possible if pleasure itself is a unified phenomenon. This has been put into question, mainly due to the wide variety of pleasure experiences which seem to have no one shared feature in common.[10][7][12] One way open to quality theorists to respond to this objection is by pointing out that the hedonic tone of pleasure-experiences is not a regular quality but a higher-order quality.[10][7] Attitude theories have an easier way to reply to this argument since they may hold that it is the same type of attitude, often identified with desire, that is common to all pleasurable experiences.[13]
+
+Psychological hedonism
+Psychological hedonism, also known as motivational hedonism, is an empirical theory about what motivates us: it states that all our actions aim at increasing pleasure and avoiding pain.[14][15] This is usually understood in combination with egoism, i.e. that each person only aims at their own happiness.[16] Our actions rely on beliefs about what causes pleasure. False beliefs may mislead us and thus our actions may fail to result in pleasure, but even failed actions are motivated by considerations of pleasure, according to psychological hedonism.[1] The paradox of hedonism concerns the thesis that pleasure-seeking behavior is actually self-defeating in the sense that it results in less actual pleasure than would result from following other motives.[1][17]
+
+Psychological hedonism gives a straightforward theory explaining the totality of human behavior. It has intuitive plausibility because pleasure-seeking behavior is a common phenomenon, and may indeed dominate human conduct at times; however, the generalization of psychological hedonism as an explanation for all behavior is highly controversial.[1][16][2] Critics point to counterexamples involving actions that seem to have no plausible explanation in terms of pleasure, such as egoistic motives for things other than pleasure (e.g. health, self-improvement, post-mortem fame), and altruistic motives (e.g. pursuing one's child's happiness, sacrificing one's life for a greater cause).[14][16] Psychological hedonists reinterpret such cases in terms of pleasure-seeking behavior, for example positing that seeing one's children happy or knowing that one's death will have been meaningful brings pleasure to the person sacrificing their immediate pleasure.[14][16][1]
+
+Critics also contend that, via introspection, one can conclude that pursuit of pleasure is only one type of motivating force among others, and that reinterpreting every case in terms of pleasure/pain contradicts this.[2] Critics also contend that psychological hedonism's basic claim of what motivates humans falls within the realm of the science of psychology rather than philosophy, and as such demands experimental evidence to confirm or contradict it.[1][16]
+
+Ethical hedonism
+Ethical hedonism or normative hedonism, as defined here, is the thesis that considerations of increasing pleasure and decreasing pain determine what we should do or which action is right.[2] However, it is sometimes defined in a wider sense in terms of intrinsic value, in which case it includes axiological hedonism as defined below.[15][1] It is different from psychological hedonism since it prescribes rather than describes our behavior. In the narrow sense, ethical hedonism is a form of consequentialism since it determines the rightness of an action based on its consequences, which are measured here in terms of pleasure and pain.[14] As such, it is subject to the main arguments in favor and against consequentialism. On the positive side, these include the intuition that the consequences of our actions matter and that through them we ought to make the world a better place.[18] On the negative side, consequentialism would entail that we rarely if ever know right from wrong since our knowledge of the future is rather limited and the consequences of even simple actions may be vast.[19] As a form of hedonism, it has some initial intuitive appeal since pleasure and pain seem to be relevant to how we should act.[2] But it has been argued that it is morally objectable to see pleasure and pain as the only factors relevant to what we should do since this position seems to ignore, for example, values of justice, friendship and truth.[14][2] Ethical hedonism is usually concerned with both pleasure and pain. But the more restricted version in the form of negative consequentialism or negative utilitarianism focuses only on reducing suffering.[1][20][21][22] Ethical hedonism is said to have been started by Aristippus of Cyrene, who held the idea that pleasure is the highest good.[23][24]
+
+Ethical hedonist theories can be classified in relation to whose pleasure should be increased. According to the egoist version, each agent should only aim at maximizing her own pleasure. This position is usually not held in very high esteem.[25][2] Altruist theories, commonly known by the term "classical utilitarianism", are more respectable in the philosophical community. They hold that the agent should maximize the sum-total of everyone's happiness.[26][2] This sum-total includes the agent's pleasure as well, but only as one factor among many. A common objection against utilitarianism is that it is too demanding.[27][28] This is most pronounced in cases where the agent has to sacrifice his own happiness in order to promote someone else's happiness. For example, various commentators have directed this argument against Peter Singer's position, who suggests along similar lines that the right thing to do for most people living in developed countries would be to donate a significant portion of their income to charities, which appears overly demanding to many.[29][30] Singer justifies his position by pointing out that the suffering that can be avoided in third world countries this way considerably outweighs the pleasure gained from how the money would be spent otherwise.[31] Another important objection to utilitarianism is that it disregards the personal nature of moral duties, for example, that it may be more important to promote the happiness of those close to us, e.g. of our family and friends, even if the alternative course of actions would result in slightly more happiness for a stranger.[32]
+
+Axiological hedonism
+Axiological hedonism is the thesis that only pleasure has intrinsic value. It has also been referred to as evaluative hedonism or value hedonism, and it is sometimes included in ethical hedonism.[1][14][4] A closely related theory often treated together with axiological hedonism is hedonism about well-being, which holds that pleasure and pain are the only constituents of well-being and thereby the only things that are good for someone.[5] Central to the understanding of axiological hedonism is the distinction between intrinsic and instrumental value. An entity has intrinsic value if it is good in itself or good for its own sake.[33][34] Instrumental value, on the other hand, is ascribed to things that are valuable only as a means to something else.[35] For example, tools like cars or microwaves are said to be instrumentally valuable in virtue of the function they perform, while the happiness they cause is intrinsically valuable. Axiological hedonism is a claim about intrinsic value, not about value at large.[4]
+
+Within the scope of axiological hedonism, there are two competing theories about the exact relation between pleasure and value: quantitative hedonism and qualitative hedonism.[1][2] Quantitative hedonists, following Jeremy Bentham, hold that the specific content or quality of a pleasure-experience is not relevant to its value, which only depends on its quantitative features: intensity and duration.[1][36] For example, on this account, an experience of intense pleasure of indulging in food and sex is worth more than an experience of subtle pleasure of looking at fine art or of engaging in a stimulating intellectual conversation. Qualitative hedonists, following John Stuart Mill, object to this version on the grounds that it threatens to turn axiological hedonism into a "philosophy of swine".[2] Instead, they argue that the quality is another factor relevant to the value of a pleasure-experience, for example, that the lower pleasures of the body are less valuable than the higher pleasures of the mind.[37]
+
+One appeal of axiological hedonism is that it provides a simple and unified account of what matters. It also reflects the introspective insight that pleasure feels valuable as something worth seeking.[1] It has been influential throughout the history of western philosophy but has received a lot of criticism in contemporary philosophy.[2][15][14] Most objections can roughly be divided into 2 types: (1) objections to the claim that pleasure is a sufficient condition of intrinsic value or that all pleasure is intrinsically valuable; (2) objections to the claim that pleasure is a necessary condition of intrinsic value or that there are no intrinsically valuable things other than pleasure.[1] Opponents in the first category usually try to point to cases of pleasure that seem to either lack value or have negative value, like sadistic pleasure or pleasure due to a false belief.[15] Qualitative hedonists can try to account for these cases by devaluing pleasures associated with the problematic qualities.[2] Other ways to respond to this argument include rejecting the claim that these pleasures really have no or negative intrinsic value or rejecting that these cases involve pleasure at all.[1]
+
+Various thought experiments have been proposed for the second category, i.e. that there are intrinsically valuable things other than pleasure. The most well-known one in recent philosophy is Robert Nozick's experience machine.[38][2][1] Nozick asks us whether we would agree to be permanently transported into a simulated reality more pleasurable than actual life. He thinks that it is rational to decline this offer since other things besides pleasure matter. This has to do with the fact that it matters to be in touch with reality and to actually "make a difference in the world" instead of just appearing to do so since life would be meaningless otherwise.[38][2] Axiological hedonists have responded to this thought experiment by pointing out that our intuitions about what we should do are mistaken, for example, that there is a cognitive bias to prefer the status quo and that if we were to find out that we had spent our life already within the experience machine, we would be likely to choose to stay within the machine.[39][2] Another objection within this category is that many things besides pleasure seem valuable to us, like virtue, beauty, knowledge or justice. For example, G. E. Moore suggests in a famous thought experiment that a world consisting only of a beautiful landscape is better than an ugly and disgusting world even if there is no conscious being to observe and enjoy or suffer either world.[1][40] One way for the axiological hedonist to respond is to explain the value of these things in terms of instrumental values. So, for example, virtue is good because it tends to increase the overall pleasure of the virtuous person or of the people around them. This can be paired with holding that there is a psychological bias to mistake stable instrumental values for intrinsic values, thus explaining the opponent's intuition.[41] While this strategy may work for some cases, it is controversial whether it can be applied to all counterexamples.
+
+Aesthetic hedonism
+Aesthetic hedonism is the influential view in the field of aesthetics that beauty or aesthetic value can be defined in terms of pleasure, e.g. that for an object to be beautiful is for it to cause pleasure or that the experience of beauty is always accompanied by pleasure.[42][43][44] A prominent articulation of this position comes from Thomas Aquinas, who treats beauty as "that which pleases in the very apprehension of it".[45] Immanuel Kant explains this pleasure through a harmonious interplay between the faculties of understanding and imagination.[46] A further question for aesthetic hedonists is how to explain the relation between beauty and pleasure. This problem is akin to the Euthyphro dilemma: is something beautiful because we enjoy it or do we enjoy it because it is beautiful?[47] Identity theorists solve this problem by denying that there is a difference between beauty and pleasure: they identify beauty, or the appearance of it, with the experience of aesthetic pleasure.[46]
+
+Aesthetic hedonists usually restrict and specify the notion of pleasure in various ways in order to avoid obvious counterexamples. One important distinction in this context is the difference between pure and mixed pleasure.[46] Pure pleasure excludes any form of pain or unpleasant feeling while the experience of mixed pleasure can include unpleasant elements.[48] But beauty can involve mixed pleasure, for example, in the case of a beautifully tragic story, which is why mixed pleasure is usually allowed in aesthetic hedonist conceptions of beauty.[46]
+
+Another problem faced by aesthetic hedonist theories is that we take pleasure from many things that are not beautiful. One way to address this issue is to associate beauty with a special type of pleasure: aesthetic or disinterested pleasure.[49][50][51] A pleasure is disinterested if it is indifferent to the existence of the beautiful object or if it did not arise due to an antecedent desire through means-end reasoning.[52][46] For example, the joy of looking at a beautiful landscape would still be valuable if it turned out that this experience was an illusion, which would not be true if this joy was due to seeing the landscape as a valuable real estate opportunity.[49] Opponents of hedonism usually concede that many experiences of beauty are pleasurable but deny that this is true for all cases.[42] For example, a cold jaded critic may still be a good judge of beauty due to his years of experience but lack the joy that initially accompanied his work.[46] One way to avoid this objection is to allow responses to beautiful things to lack pleasure while insisting that all beautiful things merit pleasure, that aesthetic pleasure is the only appropriate response to them.[42]
+
+History
+Etymology
+The term hedonism derives from the Greek hēdonismos (ἡδονισμός, 'delight'; from ἡδονή, hēdonē, 'pleasure'), which is a cognate from Proto-Indo-European swéh₂dus through Ancient Greek hēdús (ἡδύς, 'pleasant to the taste or smell, sweet') or hêdos (ἧδος, 'delight, pleasure') + suffix -ismos (-ισμός, 'ism').
+
+Opposite to hedonism, there is hedonophobia, which is a strong aversion to experiencing pleasure. According to medical author William C. Shiel Jr., hedonophobia is "an abnormal, excessive, and persistent fear of pleasure."[53] The condition of being unable to experience pleasure is anhedonia.
+
+Early philosophy
+Sumerian civilization
+In the original Old Babylonian version of the Epic of Gilgamesh, Siduri gave the following advice: "Fill your belly. Day and night make merry. Let days be full of joy. Dance and make music day and night.... These things alone are the concern of men." This may represent the first recorded advocacy of a hedonistic philosophy.[54]
+
+Ancient Egypt
+Scenes of a harper entertaining guests at a feast were common in Ancient-Egyptian tombs, and sometimes contained hedonistic elements, calling guests to submit to pleasure because they cannot be sure that they will be rewarded for good with a blissful afterlife. The following is a song attributed to the reign of one of the pharaohs around the time of the 12th dynasty, and the text was used in the 18th and 19th dynasties.[55][56]
+
+Let thy desire flourish,
+In order to let thy heart forget the beatifications for thee.
+Follow thy desire, as long as thou shalt live.
+Put myrrh upon thy head and clothing of fine linen upon thee,
+Being anointed with genuine marvels of the gods' property.
+Set an increase to thy good things;
+Let not thy heart flag.
+Follow thy desire and thy good.
+Fulfill thy needs upon earth, after the command of thy heart,
+Until there come for thee that day of mourning.
+
+Ancient Greek philosophy
+Democritus seems to be the earliest philosopher on record to have categorically embraced a hedonistic philosophy; he called the supreme goal of life "contentment" or "cheerfulness," claiming that "joy and sorrow are the distinguishing mark of things beneficial and harmful.[57]
+
+Cyrenaic school
+Main article: Cyrenaics
+
+Aristippus of Cyrene
+The Cyrenaics were a hedonist Greek school of philosophy founded in the 4th century BC by Socrates' student, Aristippus of Cyrene, although many of the principles of the school are believed to have been formalized by his grandson of the same text, Aristippus the Younger. The school was so called after Cyrene, the birthplace of Aristippus and where he began teaching. It was one of the earliest Socratic schools. The school died out within a century.
+
+The Cyrenaics taught that the only intrinsic good is pleasure, which meant not just the absence of pain, but positively enjoyable momentary sensations. Of these, physical ones are stronger than those of anticipation or memory. They did, however, recognize the value of social obligation, and that pleasure could be gained from altruism.[58]
+
+The Cyrenaics were known for their skeptical theory of knowledge, reducing logic to a basic doctrine concerning the criterion of truth.[59] They thought that we can know with certainty only our immediate sense-experiences (for instance, that one is having a sweet sensation), but can know nothing about the nature of the objects that cause these sensations (for instance, that honey is sweet).[60] They also denied that we can have knowledge of what the experiences of other people are like.[61] All knowledge is immediate sensation. These sensations are motions that are purely subjective, and are painful, indifferent or pleasant, according as they are violent, tranquil or gentle.[60][62] Further, they are entirely individual and can in no way be described as constituting absolute objective knowledge. Feeling, therefore, is the only possible criterion of knowledge and of conduct.[60] Our ways of being affected are alone knowable, thus the sole aim for everyone should be pleasure.
+
+Cyrenaicism deduces a single, universal aim for all people: pleasure. Furthermore, all feeling is momentary and homogeneous; past and future pleasure have no real existence for us, and that among present pleasures there is no distinction of kind.[62] Socrates had spoken of the higher pleasures of the intellect; the Cyrenaics denied the validity of this distinction and said that bodily pleasures, being more simple and more intense, were preferable.[63] Momentary pleasure, preferably of a physical kind, is the only good for humans. However some actions which give immediate pleasure can create more than their equivalent of pain. The wise person should be in control of pleasures rather than be enslaved to them, otherwise pain will result, and this requires judgement to evaluate the different pleasures of life.[64] Regard should be paid to law and custom, because even though these things have no intrinsic value on their own, violating them will lead to unpleasant penalties being imposed by others.[63] Likewise, friendship and justice are useful because of the pleasure they provide.[63] Thus the Cyrenaics believed in the hedonistic value of social obligation and altruistic behaviour.
+
+Epicureanism
+Main articles: Epicureanism and Epicurus
+Epicureanism is a system of philosophy based upon the teachings of Epicurus (c. 341 – c. 270 BC), founded around 307 BC. Epicurus was an atomic materialist, following in the steps of Democritus and Leucippus. His materialism led him to a general stance against superstition or the idea of divine intervention. Following Aristippus—about whom very little is known—Epicurus believed that the greatest good was to seek modest, sustainable "pleasure" in the form of a state of tranquility and freedom from fear (ataraxia) and absence of bodily pain (aponia) through knowledge of the workings of the world and the limits of our desires. The combination of these two states is supposed to constitute happiness in its highest form. Although Epicureanism is a form of hedonism, insofar as it declares pleasure as the sole intrinsic good, its conception of absence of pain as the greatest pleasure and its advocacy of a simple life make it different from "hedonism" as it is commonly understood.
+
+
+Epicurus
+In the Epicurean view, the highest pleasure (tranquility and freedom from fear) was obtained by knowledge, friendship and living a virtuous and temperate life. He lauded the enjoyment of simple pleasures, by which he meant abstaining from bodily desires, such as sex and appetites, verging on asceticism. He argued that when eating, one should not eat too richly, for it could lead to dissatisfaction later, such as the grim realization that one could not afford such delicacies in the future. Likewise, sex could lead to increased lust and dissatisfaction with the sexual partner. Epicurus did not articulate a broad system of social ethics that has survived but had a unique version of the Golden Rule.
+
+It is impossible to live a pleasant life without living wisely and well and justly (agreeing "neither to harm nor be harmed"),[65] and it is impossible to live wisely and well and justly without living a pleasant life.[66]
+
+Epicureanism was originally a challenge to Platonism, though later it became the main opponent of Stoicism. Epicurus and his followers shunned politics. After the death of Epicurus, his school was headed by Hermarchus; later many Epicurean societies flourished in the Late Hellenistic era and during the Roman era (such as those in Antiochia, Alexandria, Rhodes and Ercolano). The poet Lucretius is its most known Roman proponent. By the end of the Roman Empire, having undergone Christian attack and repression, Epicureanism had all but died out, and would be resurrected in the 17th century by the atomist Pierre Gassendi, who adapted it to the Christian doctrine.
+
+Some writings by Epicurus have survived. Some scholars consider the epic poem On the Nature of Things by Lucretius to present in one unified work the core arguments and theories of Epicureanism. Many of the papyrus scrolls unearthed at the Villa of the Papyri at Herculaneum are Epicurean texts. At least some are thought to have belonged to the Epicurean Philodemus.
+
+Asian philosophy
+Yangism
+Main article: Yangism
+Yangism has been described as a form of psychological and ethical egoism. The Yangist philosophers believed in the importance of maintaining self-interest through "keeping one's nature intact, protecting one's uniqueness, and not letting the body be tied by other things". Disagreeing with the Confucian virtues of li ('propriety'), ren ('humaneness'), and yi ('righteousness'), and the Legalist virtue of fa (law), the Yangists saw wei wo (為我, '[everything] for myself') as the only virtue necessary for self-cultivation. Individual pleasure is considered desirable, like in hedonism, but not at the expense of the health of the individual. The Yangists saw individual well-being as the prime purpose of life, and considered anything that hindered that well-being immoral and unnecessary.
+
+The main focus of the Yangists was on the concept of xing (性), or human nature, a term later incorporated by Mencius into Confucianism. The xing, according to sinologist A. C. Graham, is a person's "proper course of development" in life. Individuals can only rationally care for their own xing, and should not naively have to support the xing of other people, even if it means opposing the emperor. In this sense, Yangism is a "direct attack" on Confucianism, by implying that the power of the emperor, defended in Confucianism, is baseless and destructive, and that state intervention is morally flawed.
+
+The Confucian philosopher Mencius depicts Yangism as the direct opposite of Mohism, which promotes the idea of universal love and impartial caring. In contrast, the Yangists acted only "for themselves," rejecting the altruism of Mohism. He criticized the Yangists as selfish, ignoring the duty of serving the public and caring only for personal concerns. Mencius saw Confucianism as the "Middle Way" between Mohism and Yangism.
+
+Indian philosophy
+The concept of hedonism is also found in nāstika ('atheist', as in heterodox) schools of Hinduism, for instance the Charvaka school. However, Hedonism is criticized by āstika ('theist', as in orthodox) schools of thought on the basis that it is inherently egoistic and therefore detrimental to spiritual liberation.[67][68]
+
+Abrahamic philosophy
+Judaism
+Judaism believes that the world was created to serve God, and in order to do so properly, God in turn gives mankind the opportunity to experience pleasure in the process of serving Him (Talmud Kidushin 82:b). In recent years, Rabbi Noah Weinberg articulated five different levels of pleasure, of which connecting with God is the highest possible pleasure.[69] The Book of Ecclesiastes (2:24) in the Old Testament proclaims: "There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God..."
+
+Christianity
+Main article: Christian hedonism
+Ethical hedonism as part of Christian theology has also been a concept in some evangelical circles, particularly in those of the Reformed tradition.[70] The term Christian Hedonism was first coined by Reformed-Baptist theologian John Piper in his 1986 book Desiring God:[70]
+
+My shortest summary of it is: God is most glorified in us when we are most satisfied in Him. Or: The chief end of man is to glorify God by enjoying Him forever. Does Christian Hedonism make a god out of pleasure? No. It says that we all make a god out of what we take most pleasure in.
+
+Piper states his term may describe the theology of Jonathan Edwards, who in his 1746 Treatise Concerning Religious Affections referred to "a future enjoyment of Him [God] in heaven."[71] Already in the 17th century, the atomist Pierre Gassendi had adapted Epicureanism to the Christian doctrine.
+
+Islam
+Those who choose the worldly life and its pleasures will be given proper recompense for their deeds in this life and will not suffer any loss. Such people will receive nothing in the next life except Hell fire. Their deeds will be made devoid of all virtue and their efforts will be in vain.
+
+— Quran 11:15-16, (Muhammad Sarwar translation)[72][73]
+In Islam, one of the main duties of a Muslim is to conquer his nafs (his ego, self, passions, desires) and to be free from it. Certain joys of life are permissible provided they do not lead to excess or evildoing that may bring harm. It is understood that everyone takes their passion as their idol, Islam calls these tawaghit (idols) and taghut (worship of other than Allah) so there has to be a means of controlling these nafs.[citation needed]
+
+Utilitarianism
+Main article: Utilitarianism
+Utilitarianism addresses problems with moral motivation neglected by Kantianism by giving a central role to happiness. It is an ethical theory holding that the proper course of action is the one that maximizes the overall good of the society.[74] It is thus one form of consequentialism, meaning that the moral worth of an action is determined by its resulting outcome. The most influential contributors to this theory are considered to be the 18th and 19th-century British philosophers Jeremy Bentham and John Stuart Mill. Conjoining hedonism—as a view as to what is good for people—to utilitarianism has the result that all action should be directed toward achieving the greatest total amount of happiness (measured via hedonic calculus). Though consistent in their pursuit of happiness, Bentham and Mill's versions of hedonism differ.
+
+There are two somewhat basic schools of thought on hedonism.[1]
+
+Bentham
+One school, grouped around Bentham, defends a quantitative approach. Bentham believed that the value of a pleasure could be quantitatively understood. Essentially, he believed the value of pleasure to be its intensity multiplied by its duration—so it was not just the number of pleasures, but their intensity and how long they lasted that must be in_server into account.[1]
+
+Mill
+Other proponents, like Mill, argue a qualitative approach. Mill believed that there can be different levels of pleasure—higher quality pleasure is better than lower quality pleasure. Mill also argues that simpler beings (he often refers to pigs) have an easier access to the simpler pleasures; since they do not see other aspects of life, they can simply indulge in their lower pleasures. The more elaborate beings tend to spend more thought on other matters and hence lessen the time for simple pleasure. It is therefore more difficult for them to indulge in such "simple pleasures" in the same manner.[1]
+
+Libertinage
+Main article: Libertine
+An extreme form of hedonism that views moral and sexual restraint as either unnecessary or harmful. Famous proponents are Marquis de Sade[75][76] and John Wilmot, 2nd Earl of Rochester.[77]
+
+Contemporary approaches
+Contemporary proponents of hedonism include Swedish philosopher Torbjörn Tännsjö,[78] Fred Feldman,[79] and Spanish ethic philosopher Esperanza Guisán (published a "Hedonist manifesto" in 1990).[80] Dan Haybron has distinguished between psychological, ethical, welfare and axiological hedonism.[4]
+
+Michel Onfray
+Main article: Michel Onfray
+
+Michel Onfray, contemporary hedonist philosopher
+A dedicated contemporary hedonist philosopher and writer on the history of hedonistic thought is the French Michel Onfray, who has written two books directly on the subject, L'invention du plaisir: fragments cyréaniques[81] and La puissance d'exister : Manifeste hédoniste.[82] He defines hedonism "as an introspective attitude to life based on taking pleasure yourself and pleasuring others, without harming yourself or anyone else."[83] Onfray's philosophical project is to define an ethical hedonism, a joyous utilitarianism, and a generalized aesthetic of sensual materialism that explores how to use the brain's and the body's capacities to their fullest extent—while restoring philosophy to a useful role in art, politics, and everyday life and decisions."[84]
+
+Onfray's works "have explored the philosophical resonances and components of (and challenges to) science, painting, gastronomy, sex and sensuality, bioethics, wine, and writing. His most ambitious project is his projected six-volume Counter-history of Philosophy," of which three have been published.[84] For Onfray:
+
+In opposition to the ascetic ideal advocated by the dominant school of thought, hedonism suggests identifying the highest good with your own pleasure and that of others; the one must never be indulged at the expense of sacrificing the other. Obtaining this balance – my pleasure at the same time as the pleasure of others – presumes that we approach the subject from different angles – political, ethical, aesthetic, erotic, bioethical, pedagogical, historiographical....
+
+For this, he has "written books on each of these facets of the same world view."[85] His philosophy aims for "micro-revolutions", or "revolutions of the individual and small groups of like-minded people who live by his hedonistic, libertarian values."[86]
+
+Abolitionism (David Pearce)
+Main article: David Pearce (philosopher)
+
+David Pearce, transhumanist philosopher
+The Abolitionist Society is a transhumanist group calling for the abolition of suffering in all sentient life through the use of advanced biotechnology. Their core philosophy is negative utilitarianism.
+
+David Pearce is a theorist of this perspective who believes and promotes the idea that there exists a strong ethical imperative for humans to work towards the abolition of suffering in all sentient life. His book-length internet manifesto The Hedonistic Imperative[87] outlines how technologies such as genetic engineering, nanotechnology, pharmacology, and neurosurgery could potentially converge to eliminate all forms of unpleasant experience among human and non-human animals, replacing suffering with gradients of well-being, a project he refers to as "paradise engineering."[88] A transhumanist and a vegan,[89] Pearce believes that we (or our future posthuman descendants) have a responsibility not only to avoid cruelty to animals within human society but also to alleviate the suffering of animals in the wild.
+
+In a talk given at the Future of Humanity Institute and at the Charity International, 'Happiness Conference', Pearce said:[90]
+
+Sadly, what won't abolish suffering, or at least not on its own, is socio-economic reform, or exponential economic growth, or technological progress in the usual sense, or any of the traditional panaceas for solving the world's ills. Improving the external environment is admirable and important; but such improvement can't recalibrate our hedonic treadmill above a genetically constrained ceiling. Twin studies confirm there is a [partially] heritable set-point of well-being - or ill-being - around which we all tend to fluctuate over the course of a lifetime. This set-point varies between individuals. It's possible to lower an individual's hedonic set-point by inflicting prolonged uncontrolled stress; but even this re-set is not as easy as it sounds: suicide-rates typically go down in wartime; and six months after a quadriplegia-inducing accident, studies suggest that we are typically neither more nor less unhappy than we were before the catastrophic event. Unfortunately, attempts to build an ideal society can't overcome this biological ceiling, whether utopias of the left or right, free-market or socialist, religious or secular, futuristic high-tech or simply cultivating one's garden. Even if everything that traditional futurists have asked for is delivered - eternal youth, unlimited material wealth, morphological freedom, superintelligence, immersive VR, molecular nanotechnology, etc - there is no evidence that our subjective quality of life would on average significantly surpass the quality of life of our hunter-gatherer ancestors - or a New Guinea tribesman today - in the absence of reward pathway enrichment. This claim is difficult to prove in the absence of sophisticated neuroscanning; but objective indices of psychological distress e.g. suicide rates, bear it out. Unenhanced humans will still be prey to the spectrum of Darwinian emotions, ranging from terrible suffering to petty disappointments and frustrations - sadness, anxiety, jealousy, existential angst. Their biology is part of "what it means to be human". Subjectively unpleasant states of consciousness exist because they were genetically adaptive. Each of our core emotions had a distinct signalling role in our evolutionary past: they tended to promote behaviours that enhanced the inclusive fitness of our genes in the ancestral environment.
+
+Hedodynamics (Victor Argonov)
+Russian physicist and philosopher Victor Argonov argues that hedonism is not only a philosophical but also a verifiable scientific hypothesis.[91] In 2014, he suggested "postulates of pleasure principle," the confirmation of which would lead to a new scientific discipline known as hedodynamics.
+
+Hedodynamics would be able to forecast the distant future development of human civilization and even the probable structure and psychology of other rational beings within the universe.[92] In order to build such a theory, science must discover the neural correlate of pleasure—neurophysiological parameter unambiguously corresponding to the feeling of pleasure (hedonic tone).
+
+According to Argonov, posthumans will be able to reprogram their motivations in an arbitrary manner (to get pleasure from any programmed activity).[93] And if pleasure principle postulates are true, then general direction of civilization development is obvious: maximization of integral happiness in posthuman life (product of life span and average happiness). Posthumans will avoid constant pleasure stimulation, because it is incompatible with rational behavior required to prolong life. However, they can become on average much happier than modern humans.
+
+Many other aspects of posthuman society could be predicted by hedodynamics if the neural correlate of pleasure were discovered. For example, optimal number of individuals, their optimal body size (whether it matters for happiness or not) and the degree of aggression.[93]
+
+Criticism
+Critics of hedonism have objected to its exclusive concentration on pleasure as valuable or that the retentive breadth of dopamine is limited.[94]
+
+In particular, G. E. Moore offered a thought experiment in criticism of pleasure as the sole bearer of value: he imagined two worlds—one of exceeding beauty and the other a heap of filth. Neither of these worlds will be experienced by anyone. The question then is if it is better for the beautiful world to exist than the heap of filth. In this, Moore implied that states of affairs have value beyond conscious pleasure, which he said spoke against the validity of hedonism.[95]
+
+Perhaps the most famous objection to hedonism is Robert Nozick's famous experience machine. Nozick asks us to just hypothetically imagine a machine that will allow us to experience whatever we want—if we want to experience making friends, it will give this to us. Nozick claims that by hedonistic logic, we should remain in this machine for the rest of our lives. However, he gives three reasons why this is not a preferable scenario: firstly, because we want to do certain things, as opposed to merely experience them; secondly, we want to be a certain kind of person, as opposed to an 'indeterminate blob' and thirdly, because such a thing would limit our experiences to only what we can imagine.[96] Peter Singer, a hedonistic utilitarian, and Katarzyna de Lazari-Radek have both argued against such an objection by saying that it only provides an answer to certain forms of hedonism, and ignores others.[97]
+
+See also
+Affectionism
+Brave New World
+Eudaimonia
+Hedonism Resorts
+Libertine
+Paradox of hedonism
+Pleasure principle (psychology)
+Psychological hedonism
+References
+Citations
+ Moore, Andrew (2019). "Hedonism". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 29 January 2021.
+ Weijers, Dan. "Hedonism". Internet Encyclopedia of Philosophy. Retrieved 29 January 2021.
+ "Psychological hedonism". Encyclopedia Britannica. Retrieved 29 January 2021.
+ Haybron, Daniel M. (2008). The Pursuit of Unhappiness: The Elusive Psychology of Well-Being. Oxford University Press. p. 62.
+ Crisp, Roger (2017). "Well-Being: 4.1 Hedonism". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University.
+ "Hedonism". www.merriam-webster.com. Retrieved 30 January 2021.
+ Pallies, Daniel (2021). "An Honest Look at Hybrid Theories of Pleasure". Philosophical Studies. 178 (3): 887–907. doi:10.1007/s11098-020-01464-5. S2CID 219440957.
+ Lopez, Shane J. (2009). "Pleasure". The Encyclopedia of Positive Psychology. Wiley-Blackwell.
+ Katz, Leonard D. (2016). "Pleasure". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 29 January 2021.
+ Borchert, Donald (2006). "Pleasure". Macmillan Encyclopedia of Philosophy, 2nd Edition. Macmillan.
+ Bramble, Ben (2013). "The Distinctive Feeling Theory of Pleasure". Philosophical Studies. 162 (2): 201–217. doi:10.1007/s11098-011-9755-9. S2CID 170819498.
+ Smuts, Aaron (2011). "The Feels Good Theory of Pleasure". Philosophical Studies. 155 (2): 241–265. doi:10.1007/s11098-010-9566-4. S2CID 170258796.
+ Heathwood, Chris (2007). "The Reduction of Sensory Pleasure to Desire". Philosophical Studies. 133 (1): 25–26. doi:10.1007/s11098-006-9004-9. S2CID 170419589.
+ Craig, Edward (1996). "Hedonism". Routledge Encyclopedia of Philosophy. Routledge.
+ Borchert, Donald (2006). "Hedonism". Macmillan Encyclopedia of Philosophy, 2nd Edition. Macmillan.
+ "Psychological hedonism". Encyclopedia Britannica. Retrieved 2 February 2021.
+ Dietz, Alexander (2019). "Explaining the Paradox of Hedonism". Australasian Journal of Philosophy. 97 (3): 497–510. doi:10.1080/00048402.2018.1483409. S2CID 171459875.
+ Sinnott-Armstrong, Walter (2019). "Consequentialism". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 2 February 2021.
+ "Consequentialism". Ethics Unwrapped. The University of Texas at Austin. Retrieved 2 February 2021.
+ Parfit, Derek. 1984. Reasons and Persons. Oxford: Oxford University Press.
+ Mayerfeld, Jamie. 1996. "The Moral Asymmetry of Happiness and Suffering." Southern Journal of Philosophy 34:317–38.
+ Knutsson, Simon. 2016. "What Is the Difference Between Weak Negative and Non-Negative Ethical Views?." Simon Knutsson.
+ "Hedonism - By Branch / Doctrine - The Basics of Philosophy". www.philosophybasics.com. Retrieved 27 May 2020.
+ Hastings, James, ed. "Hedonism." pp. 567–68 in Encyclopedia of Religion and Ethics 6. Edinburgh: T. & T. Clark. p. 567.
+ Shaver, Robert (2019). "Egoism: 2. Ethical Egoism". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 2 February 2021.
+ Driver, Julia (2014). "The History of Utilitarianism: 2. The Classical Approach". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 2 February 2021.
+ Hills, Alison (2010). "Utilitarianism, Contractualism and Demandingness". Philosophical Quarterly. 60 (239): 225–242. doi:10.1111/j.1467-9213.2009.609.x.
+ Bykvist, Krister (2009). "7. Is utilitarianism too demanding?". Utilitarianism: A Guide for the Perplexed. Continuum.
+ Singer, Peter (2016). "The Most Good You Can Do: A Response to the Commentaries". Journal of Global Ethics. 12 (2): 161–169. doi:10.1080/17449626.2016.1191523. S2CID 151903760.
+ Kanygina, Yuliya (2011). "Introduction". The Demandingness Objection to Peter Singer's Account of Our Obligations to the World's Poor. Budapest, Hungary: Central European University.
+ Singer, Peter (2009). "Preface". The Life You Can Save: Acting Now to Stop World Poverty. Random House.
+ Brink, David O. (1986). "Utilitarian Morality and the Personal Point of View". The Journal of Philosophy. 83 (8): 417–438. doi:10.2307/2026328. ISSN 0022-362X. JSTOR 2026328.
+ Honderich, Ted (2005). "good-in-itself". The Oxford Companion to Philosophy. Oxford University Press.
+ Borchert, Donald M. (2006). "Intrinsic Value". Macmillan Encyclopedia of Philosophy, 2nd Edition. Macmillan.
+ Schroeder, Mark (2016). "Value Theory". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 8 December 2020.
+ Sweet, William. "Jeremy Bentham: 4. Moral Philosophy". Internet Encyclopedia of Philosophy. Retrieved 3 February 2021.
+ Heydt, Colin. "John Stuart Mill: ii. Basic Argument". Internet Encyclopedia of Philosophy. Retrieved 3 February 2021.
+ Nozick, Robert (1974). Anarchy, state, and utopia. New York: Basic Books. pp. 42–45. ISBN 0-465-09720-0.
+ Brigard, Felipe De (2010). "If You Like It, Does It Matter If It's Real?". Philosophical Psychology. 23 (1): 43–57. doi:10.1080/09515080903532290.
+ Moore, George Edward (1903). "§50". Principia Ethica. Project Gutenberg.
+ Smart, J. J. C.; Williams, Bernard (1973). "3. Hedonistic and non-hedonistic utilitarianism". Utilitarianism: For and Against. Cambridge: Cambridge University Press.
+ Gorodeisky, Keren (2019). "On Liking Aesthetic Value". Philosophy and Phenomenological Research. 102 (2): 261–280. doi:10.1111/phpr.12641. ISSN 1933-1592. S2CID 204522523.
+ Berg, Servaas Van der (2020). "Aesthetic Hedonism and Its Critics". Philosophy Compass. 15 (1): e12645. doi:10.1111/phc3.12645. S2CID 213973255.
+ Matthen, Mohan; Weinstein, Zachary. "Aesthetic Hedonism". Oxford Bibliographies. Retrieved 10 February 2021.
+ Honderich, Ted (2005). "Beauty". The Oxford Companion to Philosophy. Oxford University Press.
+ De Clercq, Rafael (2019). "Aesthetic Pleasure Explained". Journal of Aesthetics and Art Criticism. 77 (2): 121–132. doi:10.1111/jaac.12636.
+ "Beauty and Ugliness". www.encyclopedia.com. Retrieved 9 February 2021.
+ Spicher, Michael R. "Aesthetic Taste". Internet Encyclopedia of Philosophy.
+ Sartwell, Crispin (2017). "Beauty". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University.
+ "Aesthetics". Encyclopedia Britannica. Retrieved 9 February 2021.
+ Levinson, Jerrold (2003). "Philosophical Aesthetics: An Overview". The Oxford Handbook of Aesthetics. Oxford University Press. pp. 3–24.
+ Craig, Edward (1996). "Beauty". Routledge Encyclopedia of Philosophy. Routledge.
+ "Definition of Hedonophobia". MedicineNet. Retrieved 7 October 2019.
+ Дробович, Антон (2012). Вчення про насолоди і задоволення: від історії значень до концептуалізації понять. Vol. №2. Практична філософія. pp. 184–185.
+ Wilson, John A. (1969). "Egyptian Secular Songs and Poems". Ancient Near Eastern Texts Relating to the Old Testament. New Jersey: Princeton University Press. p. 467.
+ Дробович, Антон (2012). Вчення про насолоди і задоволення: від історії значень до концептуалізації понять. Vol. №2. Практична філософія. p. 185.
+ DK 68 B 188, cited in: Taylor, C. C. W. 2005. "Democritus." in Greek and Roman Political Thought, edited by C. Rowe & M. Schofield. Cambridge. p. 125.
+ O'Keefe, Tim (6 October 2019). "Cyrenaics". Internet Encyclopedia of Philosophy.
+ Reale & Catan 1986, p. 274
+ Copleston 2003, p. 121
+ Reale & Catan 1986, pp. 274–5
+ Annas 1995, p. 230
+ Annas 1995, p. 231
+ Copleston 2003, p. 122
+ O'Keefe, Tim (2005). Epicurus on Freedom. Cambridge University Press. p. 134.
+ Epicurus Principal Doctrines tranls. by Robert Drew Hicks (1925)
+ Companion Encyclopaedia of Hindu Philosophy: An Exposition of the Principle [sic] Religio-philosophical Systems and an Examination of Different Schools of Thought. Genesis Publishing Pvt Ltd. 2002. p. 252. ISBN 9788177552034.
+ Encyclopedia of Hinduism. Routledge. p. 464.
+ Weinberg, Noah. "Five Levels of Pleasure." Aish.com.
+ "Christian Hedonism". Desiring God. January 1995.
+ Edwards, Jonathan. 1812. A treatise concerning religious affections. Edinburgh: J. Ogle.
+ Quran chapter 11:15, translated by Muhammad Sarwar
+ Quran 11:16 translated by Muhammad Sarwar
+ Salters-Nuffield Advanced Biology for Edexcel A2 Biology 2009.
+ Perrottet, Tony. "Who Was the Marquis de Sade?".
+ Farago, Jason. "Who's afraid of the Marquis de Sade?".
+ "John Wilmot, the Earl of Rochester - The Open Anthology of Literature in English". virginia-anthology.org.
+ Torbjörn Tännsjö; Hedonistic Utilitarianism. Edinburgh: Edinburgh University Press (1998).
+ Fred Feldman(2006). Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism. Oxford University Press and (1997). Utilitarianism, Hedonism, and Desert: Essays in Moral Philosophy. Cambridge University Press
+ Guisán, Esperanza (1990). Manifiesto hedonista. ISBN 9788476582213.
+ L'invention du plaisir. : Fragments cyrénaïques Le Livre de Poche Biblio: Amazon.es: Michel Onfray: Libros en idiomas extranjeros. ASIN 2253943231.
+ "Manifeste hédoniste: Amazon.fr: Michel Onfray: Livres". amazon.fr.
+ "Atheism à la mode". newhumanist.org.uk.
+ Introductory Note to Onfray by Doug Ireland Archived 27 April 2009 at the Wayback Machine
+ "Archives from 1948 - United Nations Educational, Scientific and Cultural Organization". unesco.org.
+ "A-Infos (en) France, Media, Michel Onfray, A self labeled Anarchist Philosoph". ainfos.ca.
+ "The Hedonistic Imperative".
+ "The Genomic Bodhisattva". H+ Magazine. 16 September 2009. Retrieved 16 November 2011.
+ "Criação animal intensiva. Um outro Holocausto?". Revista do Instituto Humanitas Unisinos. 2011.
+ admin@abolitionist.com. "The Abolitionist Project". abolitionist.com. Retrieved 17 August 2016.
+ "Victor Argonov - PhilPeople". philpeople.org. Retrieved 20 December 2019.
+ Victor Argonov (2014). "The Pleasure Principle as a Tool for Scientific Forecasting of Human Self-Evolution". Journal of Evolution and Thechnology. 24: 63–78.
+ Victor Argonov (2008). "Artificial programming of human motivations: A way to degradation or rapid development?". Questions of Philosophy (In Russian). 12: 22–37.
+ Rodriguez-Iturbe, Bernardo, Freddy Romero, and Richard J. Johnson. "Pathophysiological mechanisms of salt-dependent hypertension." American journal of kidney diseases 50.4 (2007): 655-672.
+ "Hedonism". utm.edu.
+ Nozick, Robert (1974). Anarchy, state, and utopia. New York: Basic Books. pp. 42–45. ISBN 0-465-09720-0.
+ Singer, Peter; de Lazari-Radek, Katarzyna (2017). Utilitarianism: A Very Short Introduction. Oxford: Oxford University Press. pp. 46–56. ISBN 978-0-19-872879-5.
+Sources
+"Hedonism" . Encyclopædia Britannica (11th ed.). 1911.
+Socrates and Hedonism: "Protagoras" 351b-358d Donald J.ZEYL
+Further reading
+Feldman, Fred. 2006. Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism. Oxford University Press.
+—— 1997. Utilitarianism, Hedonism, and Desert: Essays in Moral Philosophy. Cambridge University Press
+—— 2010. What Is This Thing Called Happiness?. Oxford University Press
+MacAskill, William (2020). "Elements and Types of Utilitarianism: Hedonism and Theories of Welfare". Introduction to Utilitarianism: An Online Textbook. Oxford.
+Onfray, Michel. 2002. L'invention du plaisir : fragments cyréaniques. Le Livre de Poche.
+—— 2006. La puissance d'exister : Manifeste hédoniste. Grasset & Fasquelle
+Pearce, David. The Hedonistic Imperative.
+Tännsjö, Torbjörn. 1998. Hedonistic Utilitarianism. Edinburgh University Press
+Wilde, Oscar. 1891. The Picture of Dorian Gray. (Hedonism is prominent throughout the novel, influencing many of the decisions made by the titular protagonist.)
+External links
+	Look up hedonism in Wiktionary, the free dictionary.
+	Wikiquote has quotations related to: Hedonism
+	Wikimedia Commons has media related to Hedonism.
+Moore, Andrew (2019). "Hedonism". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+Manifesto of the Hedonist International
+Dolson, Grace Neal (1920). "Hedonism" . Encyclopedia Americana.
+Theories of Well-Being, in William MacAskill & Richard Yetter-Chappell (2021), Introduction to Utilitarianism.
+vte
+Philosophy
+Authority control: National libraries Edit this at Wikidata	
+France (data)UkraineGermanyIsraelUnited StatesJapan
+Categories: HedonismMotivationConsequentialismUtilitarianismEthical theoriesPhilosophical movementsThought experiments in ethics
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+
+Languages
+Беларуская
+Deutsch
+Español
+Lietuvių
+Polski
+Русский
+Svenska
+Українська
+中文
+57 more
+Edit links
+This page was last edited on 16 March 2022, at 05:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
